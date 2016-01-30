@@ -1,0 +1,12 @@
+name: http_client
+version: 1.0.0
+author: Alexandre Maurel
+description: http client
+homepage: https://github.com/tercen/http_client
+documentation: https://github.com/tercen/http_client
+dependencies:
+  browser: any
+  http: any
+  logging: any
+dev_dependencies:
+  test: any
